@@ -1,5 +1,8 @@
 {
   "name": "@miryasha/advanced-trading-statistics",
+  "publishConfig": {
+    "access": "public"
+  },
   "version": "1.0.0",
   "description": "Advanced statistical analysis tools for trading and financial data",
   "main": "src/index.js",
