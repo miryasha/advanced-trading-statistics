@@ -1,0 +1,27 @@
+{
+  "name": "advanced-trading-statistics",
+  "version": "1.0.0",
+  "description": "Advanced statistical analysis tools for trading and financial data",
+  "main": "src/index.js",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "statistics",
+    "trading",
+    "financial-analysis",
+    "risk-management",
+    "technical-analysis"
+  ],
+  "author": {
+    "name": "Miryasha",
+    "url": "https://miryasha.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
